@@ -1,0 +1,665 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"ADMOB",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "More":
+  [
+    
+  ],
+  "Skin": [
+    {
+      "id": 1,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC1.png"
+    },
+    {
+      "id": 2,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC2.png"
+    },
+    {
+      "id": 3,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC3.png"
+    },
+    {
+      "id": 4,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC4.png"
+    },
+    {
+      "id": 5,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC5.png"
+    },
+    {
+      "id": 6,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC6.png"
+    },
+    {
+      "id": 7,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC7.png"
+    },
+    {
+      "id": 8,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC8.png"
+    },
+    {
+      "id": 9,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC9.png"
+    },
+    {
+      "id": 10,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC10.png"
+    },
+    {
+      "id": 11,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC11.png"
+    },
+    {
+      "id": 12,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC12.png"
+    },
+    {
+      "id": 13,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC13.png"
+    },
+    {
+      "id": 14,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC14.png"
+    },
+    {
+      "id": 15,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC15.png"
+    },
+    {
+      "id": 16,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC16.png"
+    },
+    {
+      "id": 17,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC17.png"
+    },
+    {
+      "id": 18,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC18.png"
+    },
+    {
+      "id": 19,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC19.png"
+    },
+    {
+      "id": 20,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC20.png"
+    },
+    {
+      "id": 21,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC21.png"
+    },
+    {
+      "id": 22,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC22.png"
+    },
+    {
+      "id": 23,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC23.png"
+    },
+    {
+      "id": 24,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC24.png"
+    },
+    {
+      "id": 25,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC25.png"
+    },
+    {
+      "id": 26,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC26.png"
+    },
+    {
+      "id": 27,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC27.png"
+    },
+    {
+      "id": 28,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC28.png"
+    },
+    {
+      "id": 29,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC29.png"
+    },
+    {
+      "id": 30,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC30.png"
+    },
+  {
+      "id": 31,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC31.png"
+    },
+    {
+      "id": 32,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC32.png"
+    },
+    {
+      "id": 33,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC33.png"
+    },
+    {
+      "id": 34,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC34.png"
+    },
+    {
+      "id": 35,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC35.png"
+    },
+    {
+      "id": 36,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC36.png"
+    },
+    {
+      "id": 37,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC37.png"
+    },
+    {
+      "id": 38,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC38.png"
+    },
+    {
+      "id": 39,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC39.png"
+    },
+    {
+      "id": 40,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC40.png"
+    },
+  {
+      "id": 41,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC41.png"
+    },
+    {
+      "id": 42,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC42.png"
+    },
+    {
+      "id": 43,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC43.png"
+    },
+    {
+      "id": 44,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC44.png"
+    },
+    {
+      "id": 45,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC45.png"
+    },
+    {
+      "id": 46,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC46.png"
+    },
+    {
+      "id": 47,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC47.png"
+    },
+    {
+      "id": 48,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC48.png"
+    },
+    {
+      "id": 49,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC49.png"
+    },
+    {
+      "id": 50,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC50.png"
+    },
+    {
+      "id": 51,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC51.png"
+    },
+    {
+      "id": 52,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC52.png"
+    },
+    {
+      "id": 53,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC53.png"
+    },
+    {
+      "id": 54,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC54.png"
+    },
+    {
+      "id": 55,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC55.png"
+    },
+    {
+      "id": 56,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC56.png"
+    },
+    {
+      "id": 57,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC57.png"
+    },
+    {
+      "id": 58,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC58.png"
+    },
+    {
+      "id": 59,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC59.png"
+    },
+    {
+      "id": 60,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC60.png"
+    },
+    {
+      "id": 61,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC61.png"
+    },
+    {
+      "id": 62,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC62.png"
+    },
+    {
+      "id": 63,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC63.png"
+    },
+    {
+      "id": 64,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC64.png"
+    },
+    {
+      "id": 65,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC65.png"
+    },
+    {
+      "id": 66,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC66.png"
+    },
+    {
+      "id": 67,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC67.png"
+    },
+    {
+      "id": 68,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC68.png"
+    },
+    {
+      "id": 69,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC69.png"
+    },
+    {
+      "id": 70,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC70.png"
+    },
+    {
+      "id": 71,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC71.png"
+    },
+    {
+      "id": 72,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC72.png"
+    },
+    {
+      "id": 73,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC73.png"
+    },
+    {
+      "id": 74,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC74.png"
+    },
+    {
+      "id": 75,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC75.png"
+    },
+    {
+      "id": 76,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC76.png"
+    },
+    {
+      "id": 77,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC77.png"
+    },
+    {
+      "id": 78,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC78.png"
+    },
+    {
+      "id": 79,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC79.png"
+    },
+    {
+      "id": 80,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC80.png"
+    },
+    {
+      "id": 81,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC81.png"
+    },
+    {
+      "id": 82,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC82.png"
+    },
+    {
+      "id": 83,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC83.png"
+    },
+    {
+      "id": 84,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC84.png"
+    },
+    {
+      "id": 85,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC85.png"
+    },
+    {
+      "id": 86,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC86.png"
+    },
+    {
+      "id": 87,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC87.png"
+    },
+    {
+      "id": 88,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC88.png"
+    },
+    {
+      "id": 89,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC89.png"
+    },
+    {
+      "id": 90,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC90.png"
+    },
+    {
+      "id": 91,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC91.png"
+    },
+    {
+      "id": 92,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC92.png"
+    },
+    {
+      "id": 93,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC93.png"
+    },
+    {
+      "id": 94,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC94.png"
+    },
+    {
+      "id": 95,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC95.png"
+    },
+    {
+      "id": 96,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC96.png"
+    },
+    {
+      "id": 97,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC97.png"
+    },
+    {
+      "id": 98,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC98.png"
+    },
+    {
+      "id": 99,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC99.png"
+    },
+    {
+      "id": 100,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC100.png"
+    },
+    {
+      "id": 101,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC101.png"
+    },
+    {
+      "id": 102,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC102.png"
+    },
+    {
+      "id": 103,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC103.png"
+    },
+    {
+      "id": 104,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC104.png"
+    },
+    {
+      "id": 105,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC105.png"
+    },
+    {
+      "id": 106,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC106.png"
+    },
+    {
+      "id": 107,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC107.png"
+    },
+    {
+      "id": 108,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC108.png"
+    },
+    {
+      "id": 109,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC109.png"
+    },
+    {
+      "id": 110,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC110.png"
+    },
+    {
+      "id": 111,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC111.png"
+    },
+    {
+      "id": 112,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC112.png"
+    },
+    {
+      "id": 113,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC113.png"
+    },
+    {
+      "id": 114,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC114.png"
+    },
+    {
+      "id": 115,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC115.png"
+    },
+    {
+      "id": 116,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC116.png"
+    },
+    {
+      "id": 117,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC117.png"
+    },
+    {
+      "id": 118,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC118.png"
+    },
+    {
+      "id": 119,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC119.png"
+    },
+    {
+      "id": 120,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC120.png"
+    },
+    {
+      "id": 121,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC121.png"
+    },
+    {
+      "id": 122,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC122.png"
+    },
+    {
+      "id": 123,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC123.png"
+    },
+    {
+      "id": 124,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC124.png"
+    },
+    {
+      "id": 125,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC125.png"
+    },
+    {
+      "id": 126,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC126.png"
+    },
+    {
+      "id": 127,
+      "name_skin": "DDLC Skin",
+      "install_skin": "https://raw.githubusercontent.com/Selalubersamanya7789/leonardikinalways/main/DDLC/png/DDLC127.png"
+    }
+    
+
+  ]
+}
